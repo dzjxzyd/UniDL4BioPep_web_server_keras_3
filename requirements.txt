@@ -1,0 +1,12 @@
+Flask
+pandas
+fair-esm
+scikit-learn
+tensorflow
+torch
+joblib
+gunicorn
+werkzeug
+focal-loss
+openpyxl
+urllib3
